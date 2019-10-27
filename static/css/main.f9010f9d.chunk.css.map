@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,cACF","file":"main.f9010f9d.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.nestedUl {\n  font-size: 14px;\n}\n"]}
